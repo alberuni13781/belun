@@ -1,0 +1,112 @@
+/*******************************
+	All Responsive Code
+*******************************/
+@media(max-width:991px){
+.item h1{
+    font-size:37px;
+}
+.item h1 span{
+    font-size:37px;
+}
+.item p{
+    font-size:10px;
+}
+.about-right h1{
+	font-size:20px;
+}
+.counter-box {
+    margin-bottom: 50px;
+}
+.portfolio-item {
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+button {
+    margin-bottom: 30px;
+}
+.portfolio h1::after {
+	bottom:-7px;
+}
+.portfolio h1::before {
+	bottom:-13px;
+}
+.team h1::after{
+	bottom:-7px;
+}
+
+.team h1::before{
+	bottom:-13px;
+}
+.contact h1::after{
+		bottom:-7px;
+}
+
+.contact h1::before{
+		bottom:-13px;
+}
+}
+@media(max-width:616px){
+
+
+}
+
+
+@media(max-width:561px){
+	.item h1 {
+    font-size: 30px;
+}
+
+.item h1 span{
+    font-size:30px;
+}
+.item p {
+    font-size: 8px;
+}
+.about-left {
+    max-width: 292px;
+    margin: 0 auto;
+}
+.service-box{
+	max-width: 292px;
+    margin: 0 auto;
+}
+.service-box p{
+	font-size: 9px;
+}
+
+.service-box i{
+	margin-top:50px;
+}
+.team-hover-content{
+	bottom:-90;
+}
+
+}
+
+@media(max-width:513px){
+.item h1 {
+    font-size: 25px;
+}
+.item h1 span{
+    font-size:25px;
+}
+
+
+}
+
+@media(max-width:389px){
+.item h1 {
+    font-size: 20px;
+}
+.item h1 span{
+    font-size:20px;
+}
+.item p {
+    font-size: 6px;
+}
+}
+
+
+
